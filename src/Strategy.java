@@ -89,7 +89,7 @@ class TestStrategy
         cart.addItem(item);
         cart.addItem(item1);
         cart.pay(new PayByCreditCard("salam", 1234));
-        
+
     }
 }
 
